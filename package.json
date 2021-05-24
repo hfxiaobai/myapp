@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "myapp",
+  "name": "xiaobai-myapp",
   "version": "1.0.1",
   "scripts": {
     "start": "dumi dev",
